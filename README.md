@@ -56,14 +56,13 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 
 - **AWS Certified Solutions Architect – Associate**  
 - **AWS Certified Developer – Associate**  
-- **Terraform Associate Certification**  
 
 ---
 
 ## 🎓 Education  
 
 **Northeastern University**  
-Master’s in *Informatics* (Expected Year of Graduation)  
+Master’s in *Informatics* (March 2025)  
 **Relevant Courses:** Cloud Computing, Machine Learning, Data Engineering  
 
 ---
