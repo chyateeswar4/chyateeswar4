@@ -5,7 +5,8 @@ I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design,
 
 Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
 ---
- <img align=“right” alt=“Coding” Width=“400” src="https://img.freepik.com/free-vector/multitasking-concept-illustration_52683-32123.jpg?w=2000&t=st=1710951756~exp=1710952356~hmac=3561ca844a8a3ac16b1cb0df54267762532fbd9377e4](https://img.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_88138-738.jpg?t=st=1710951895~exp=1710955495~hmac=90f8527b7379759dd39d8af5d8feeafc1490aa0e17c926c2658e7803f19f2b7c&w=2000)e5921718d2f7454a29f5"
+ <img src="[https://your-image-link.com/image.png](https://img.freepik.com/free-vector/multitasking-concept-illustration_52683-32123.jpg?w=2000&t=st=1710951756~exp=1710952356~hmac=3561ca844a8a3ac16b1cb0df54267762532fbd9377e4](https://img.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_88138-738.jpg?t=st=1710951895~exp=1710955495~hmac=90f8527b7379759dd39d8af5d8feeafc1490aa0e17c926c2658e7803f19f2b7c&w=2000)e5921718d2f7454a29f5%22)
+ " alt="Project Image" width="600"/>
 
 ---
 ## 🔥 Technical Skills  
