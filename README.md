@@ -66,6 +66,7 @@ Passionate about **Cloud Computing, AI/ML, and DevOps**, I actively work on opti
 
 **Northeastern University**  
 Master’s in Informatics | Cloud Computing (March 2025)
+
 **Relevant Courses:** Cloud Computing, Machine Learning, Data Engineering  
 
 ---
