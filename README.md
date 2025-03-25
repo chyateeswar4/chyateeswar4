@@ -23,7 +23,7 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 - Reduced infrastructure provisioning time by **70%** using **CloudFormation & Terraform**.  
 - Strengthened security with **IAM & AWS WAF**, enforcing least privilege access and mitigating cyber threats.  
 - Improved disaster recovery time by **80%** using **AWS Backup & automated RDS Multi-AZ failover**.  
-- 🔗 [AWS Cloud Infrastructure Link]([https://github.com/chyateeswar4/aws-healthcare-saas](https://github.com/chyateeswar4/AWS-Cloud-Infrastructure-for-Healthcare))  
+- 🔗 [Github Repository]([https://github.com/chyateeswar4/aws-healthcare-saas](https://github.com/chyateeswar4/AWS-Cloud-Infrastructure-for-Healthcare))  
 
 ### ✅ Intelligent Serverless Image Recognition on AWS  
 - Reduced manual inspection time by **90%** using **AWS Rekognition** for automated image-based quality checks.  
