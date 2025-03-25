@@ -62,7 +62,7 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 ## 🎓 Education  
 
 **Northeastern University**  
-Master’s in *Informatics* (March 2025)  
+Master’s in Informatics (March 2025)  
 **Relevant Courses:** Cloud Computing, Machine Learning, Data Engineering  
 
 ---
