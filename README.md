@@ -63,7 +63,7 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 ## 🎓 Education  
 
 **Northeastern University**  
-Master’s in *[Your Major]* (Expected Year of Graduation)  
+Master’s in *Informatics* (Expected Year of Graduation)  
 **Relevant Courses:** Cloud Computing, Machine Learning, Data Engineering  
 
 ---
