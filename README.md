@@ -5,8 +5,6 @@ I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design,
 
 Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
 ---
-<img src="https://raw.githubusercontent.com/chyateeswar4/chyateeswar4/image.jpeg" alt="Cloud Project Screenshot" width="600"/>
----
 
 ## 🔥 Technical Skills  
 
