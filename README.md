@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design, serverless applications, and data-driven solutions**. I specialize in designing **scalable, secure, and efficient cloud architectures** to solve real-world business challenges.
 
-Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
+Passionate about **Cloud Computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
 
 ---
 ## 🔥 Technical Skills  
@@ -12,7 +12,7 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 - **Programming Languages:** Java, Python, R, C, C#  
 - **Databases:** Oracle SQL Server, MySQL  
 - **Frontend Technologies:** React, VueJS, Angular, JavaScript, HTML, CSS, TypeScript  
-- **DevOps & Tools:** Git, Jira, Jenkins, Docker, Terraform, SQL Server Management Studio, Eclipse, VS Code  
+- **DevOps & Tools:** Git, Jira, Jenkins, Terraform, SQL Server Management Studio, Eclipse, VS Code  
 
 ---
 
@@ -65,7 +65,7 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 ## 🎓 Education  
 
 **Northeastern University**  
-Master’s in Informatics (March 2025)  
+Master’s in Informatics | Cloud Computing (March 2025) 
 **Relevant Courses:** Cloud Computing, Machine Learning, Data Engineering  
 
 ---
