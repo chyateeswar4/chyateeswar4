@@ -4,9 +4,6 @@
 I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design, serverless applications, and data-driven solutions**. I specialize in designing **scalable, secure, and efficient cloud architectures** to solve real-world business challenges.
 
 Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
----
-
-<img src="https://img.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_88138-738.jpg" alt="Data Analysis Illustration" width="600"/>
 
 ---
 ## 🔥 Technical Skills  
